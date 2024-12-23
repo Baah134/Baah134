@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Prince Baah-Mensah
-- 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Prince Baah-Mensah, sophomore and interested in the applicaions of machine and deep Learning
+- 🌱 I’m currently learning and lookking forward to collaborate on challenging projects
 
 <!---
 Baah134/Baah134 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
